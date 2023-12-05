@@ -1,2 +1,2 @@
 # Calculator
- Beginner Calculator made by JS, CSS and HTML
+ Basic Calculator made with the help JS, CSS and HTML. A beginner's project.
